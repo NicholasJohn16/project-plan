@@ -12,9 +12,9 @@ For this project, I'll be using the follow technologies:
 
 1. [React Native](https://reactnative.dev/)
 2. [React Native for Web](https://necolas.github.io/react-native-web/)
-3. [NativeWind] (https://www.nativewind.dev/)
+3. [NativeWind](https://www.nativewind.dev/)
 4. [Gluestack-ui](https://gluestack.io/ui/nativewind/docs/home/getting-started/installation)
-5. [React Native Reusables] (https://rnr-docs.vercel.app/getting-started/introduction/)
+5. [React Native Reusables](https://rnr-docs.vercel.app/getting-started/introduction/)
 
 ## Goals
 
